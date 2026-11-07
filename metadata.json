@@ -1,0 +1,6 @@
+{
+  "name": "视频相似度与溯源片段识别系统",
+  "description": "基于高维视觉指纹与粗精两级多尺度算法的视频相似度精准比对与片段溯源工具，毫秒级定位截取区间，抗字幕与口型干扰。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
